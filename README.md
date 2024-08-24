@@ -11,4 +11,4 @@
 > The *source code* of the compiled exe is inside **python source code** folder.
 
 > [!WARNING]
-> when you download the *source code* make sure you have all the necessary python packages (e.g yt-dlp) installed in your system to avoid unnescessary errors caused by missing modules when running the script.
+> when you download the *source code* make sure you have all the necessary python packages (e.g. yt-dlp) installed in your system to avoid unnescessary errors caused by missing modules when running the script.
